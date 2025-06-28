@@ -20,7 +20,7 @@
 ---
 
 ### 📫 Como me encontrar:
-[![LinkedIn](https://www.linkedin.com/in/gabriel-pereira-campanha-272b39234/)]  
+https://www.linkedin.com/in/gabriel-pereira-campanha-272b39234/
 📧 gabrielp1999@gmail.com
 
 ---

@@ -15,7 +15,7 @@
 - 👨‍💻 **Linguagens**: Python, C, C++, C#, Goland
 - ⚙️ **Frameworks**: .NET
 - 🔧 **Ferramentas**: Git, GitHub, Visual Studio
-- 📊 **Controle e IA**: Simulink, MATLAB, sistemas supervisórios
+- 📊 **Controle**: Simulink, MATLAB, sistemas supervisórios
 
 ---
 

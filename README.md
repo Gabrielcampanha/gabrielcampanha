@@ -5,6 +5,12 @@
 
 ---
 
+### 💼 Experiência Profissional:
+ **Estagiário de Engenharia de Controle:**
+  - Desenvolvimento de lógica de controle e monitoramento para sistema de automação.
+  - Teste de lógica para acionamento de pontos de monitoramento.
+  - Colaboração com equipes multidisciplinares para otimização de processos.
+
 ### 🛠️ Tecnologias que estou usando e aprendendo:
 - 👨‍💻 **Linguagens**: Python, C, C++, C#, Goland
 - ⚙️ **Frameworks**: .NET

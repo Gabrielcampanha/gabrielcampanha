@@ -11,6 +11,14 @@
   - Teste de lógica para acionamento de pontos de monitoramento.
   - Colaboração com equipes multidisciplinares para otimização de processos.
 
+    
+**Analista de Automação:**
+- Desenvolvimento de projetos de automação utilizando lógica de programação, redes e protocolos de
+comunicação e sistemas supervisórios.
+- Testes e comissionamento de projetos.
+- Experiência prática com tecnologias da área de automação.
+
+  
 ### 🛠️ Tecnologias que estou usando e aprendendo:
 - 👨‍💻 **Linguagens**: Python, C, C++, C#, Goland
 - ⚙️ **Frameworks**: .NET

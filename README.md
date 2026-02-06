@@ -1,11 +1,11 @@
-# 👋 Olá! Eu sou o Gabriel Campanha
+# Gabriel Campanha
 
-🎓 Engenheiro de Controle e Automação recém formado interessado na área de Engenharia de Software.   
-🚀 Buscando oportunidades como **Engenheiro de Software** — com foco em backend, automação e sistemas inteligentes.
+Engenheiro de Controle e Automação recém formado pelo IFSP (Instituto Federal de Ciência e Tecnologia de São Paulo)
+Pós Graduando em Engenharia de Software pela UNIUBE (Universidade de Uberaba)
 
 ---
 
-### 💼 Experiência Profissional:
+### Experiência Profissional:
  **Estagiário de Engenharia de Controle:**
   - Desenvolvimento de lógica de controle e monitoramento para sistema de automação.
   - Teste de lógica para acionamento de pontos de monitoramento.
@@ -19,17 +19,17 @@ comunicação e sistemas supervisórios.
 - Experiência prática com tecnologias da área de automação.
 
   
-### 🛠️ Tecnologias que estou usando e aprendendo:
-- 👨‍💻 **Linguagens**: Python, C, C++, C#, Goland
-- ⚙️ **Frameworks**: .NET
-- 🔧 **Ferramentas**: Git, GitHub, Visual Studio
-- 📊 **Controle**: Simulink, MATLAB, sistemas supervisórios
+### Tecnologias que estou usando e aprendendo:
+- **Linguagens**: Python, C, C++, C#, Goland
+- **Frameworks**: .NET
+- **Ferramentas**: Git, GitHub, Visual Studio
+- **Controle**: Simulink, MATLAB, sistemas supervisórios
 
 ---
 
-### 📌 Projetos em destaque
+### Projetos em destaque
 - Sistema de controle PID para um projeto barra-bola - Trabalho de Conclusão de Curso
-- [🗂️ Em breve] API REST de gerenciamento de tarefas em C#  
+- Sistema de Gerenciamento de Estoque de Produtos em C# (usando conceitos de POO)
 
 ---
 

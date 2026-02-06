@@ -1,7 +1,7 @@
 # Gabriel Campanha
 
-Engenheiro de Controle e Automação recém formado pelo IFSP (Instituto Federal de Ciência e Tecnologia de São Paulo)
-Pós Graduando em Engenharia de Software pela UNIUBE (Universidade de Uberaba)
+- Engenheiro de Controle e Automação recém formado pelo IFSP (Instituto Federal de Ciência e Tecnologia de São Paulo)
+- Pós Graduando em Engenharia de Software pela UNIUBE (Universidade de Uberaba)
 
 ---
 
